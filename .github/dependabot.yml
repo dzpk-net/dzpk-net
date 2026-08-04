@@ -1,0 +1,11 @@
+version: 2
+
+# 工作流里的 action 锁到了 commit SHA(理由见 profile.yml 的注释),锁死之后没人推动升级。
+# 这个仓库没有 npm 依赖,脚本只用 Node 内置模块,所以只配 github-actions。
+updates:
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: monthly
+    labels:
+      - dependencies

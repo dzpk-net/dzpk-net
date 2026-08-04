@@ -4,6 +4,23 @@
 
 网站 <https://dzpk.net> · 频道 <https://t.me/puke> · 订阅 <https://dzpk.net/rss.xml>
 
+<!-- weekly:start -->
+## 本周精选
+
+> 7 月 28 日 – 8 月 4 日 · 本周更新 518 篇 · [完整周报](https://github.com/dzpk-net/weekly)
+
+- **[中国选手 Chengyu Liao 击败强敌夺得 7,500 美元高额赛冠军](https://dzpk.net/posts/20949)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
+- **[小盲位的困境：如何在劣势中寻找机会](https://dzpk.net/posts/20901)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
+- **[888poker LIVE 伦敦站即将开赛， satellites 从 $0.01 起步](https://dzpk.net/posts/21002)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
+- **[五个问题让你做出更好的跟注决定](https://dzpk.net/posts/18827)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
+- **[WSOP 主赛剩 21 人，Pick 3 大赛悬念渐增](https://dzpk.net/posts/18648)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
+- **[ACES 会成功吗？在 WSOP Circuit Tallinn €1,500 主赛事的 Day…](https://dzpk.net/posts/19437)** · [WSOP](https://dzpk.net/tag/WSOP)
+- **[丹尼尔 ｜ 内格雷亚努在WSOP 2.5万美元高额锦标赛中被淘汰](https://dzpk.net/posts/18619)** · [玩家动态](https://dzpk.net/tag/%E7%8E%A9%E5%AE%B6%E5%8A%A8%E6%80%81)
+- **[2026 年 WSOP 回顾：辉煌、令人沮丧、却难忘](https://dzpk.net/posts/17180)** · [扑克](https://dzpk.net/tag/%E6%89%91%E5%85%8B)
+
+按主题看全部 21 个栏目：[2026-W31 周报](https://github.com/dzpk-net/weekly)
+<!-- weekly:end -->
+
 ## 怎么读
 
 - [首页](https://dzpk.net/) — 最新内容，与频道实时同步
