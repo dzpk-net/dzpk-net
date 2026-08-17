@@ -7,18 +7,18 @@
 <!-- weekly:start -->
 ## 本周精选
 
-> 8 月 3 日 – 8 月 10 日 · 本周更新 290 篇 · [完整周报](https://github.com/dzpk-net/weekly)
+> 8 月 10 日 – 8 月 17 日 · 本周更新 242 篇 · [完整周报](https://github.com/dzpk-net/weekly)
 
-- **[APPT Manila 超高赌注赛：Seunghyuk Jung逆转夺冠](https://dzpk.net/posts/25063)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
-- **[47,600 美元的风险，只凭借一对牌？看看 Eric 是如何应对高风险局面的](https://dzpk.net/posts/24924)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
-- **[2026CPG三亚总决赛参赛福利领取指南](https://dzpk.net/posts/25323)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
-- **[WSOP 主赛事决赛桌上，Lauri Saaskilahti 和 Lucas Jumalon 正…](https://dzpk.net/posts/23762)** · [WSOP](https://dzpk.net/tag/WSOP)
-- **[韩锋在WSOP主赛决赛桌上第五名出局](https://dzpk.net/posts/22923)** · [决赛桌](https://dzpk.net/tag/%E5%86%B3%E8%B5%9B%E6%A1%8C)
-- **[APT仁川站：Ari Engel 如何应对百场赛事](https://dzpk.net/posts/26502)** · [扑克](https://dzpk.net/tag/%E6%89%91%E5%85%8B)
-- **[WSOP 主赛决赛桌延迟：三周太长还是太短？](https://dzpk.net/posts/24960)** · [WSOP主赛](https://dzpk.net/tag/WSOP%E4%B8%BB%E8%B5%9B)
-- **[2026 博加塔夏季扑克公开赛：关键手牌回顾](https://dzpk.net/posts/26240)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
+- **[APT Incheon 2026 收官：李昌桓和廖柏豪夺冠](https://dzpk.net/posts/31460)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
+- **[888poker 发布 WSOP 纪录片第二集](https://dzpk.net/posts/30920)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
+- **[WSOP 主赛电视收视率低迷](https://dzpk.net/posts/30936)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
+- **[Stephen Pang 和 Punnat Punsri 在 APT Incheon 赢得冠军](https://dzpk.net/posts/30929)** · [扑克赛事](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E8%B5%9B%E4%BA%8B)
+- **[APT仁川站主赛事意外剧情：冠军一度被宣布错误](https://dzpk.net/posts/30909)** · [扑克](https://dzpk.net/tag/%E6%89%91%E5%85%8B)
+- **[林仁杰：APT 的新星](https://dzpk.net/posts/29433)** · [玩家动态](https://dzpk.net/tag/%E7%8E%A9%E5%AE%B6%E5%8A%A8%E6%80%81)
+- **[扑克确实会让你感到痛苦，但不必让你感到痛不欲生扑克是一种游戏，会让你感到痛苦，但这并不意味着你必…](https://dzpk.net/posts/31054)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
+- **[亚巡赛 CEO 访谈：亚洲扑克的下一个热潮](https://dzpk.net/posts/31137)** · [亚洲扑克](https://dzpk.net/tag/%E4%BA%9A%E6%B4%B2%E6%89%91%E5%85%8B)
 
-按主题看全部 16 个栏目：[2026-W32 周报](https://github.com/dzpk-net/weekly)
+按主题看全部 11 个栏目：[2026-W33 周报](https://github.com/dzpk-net/weekly)
 <!-- weekly:end -->
 
 ## 怎么读
