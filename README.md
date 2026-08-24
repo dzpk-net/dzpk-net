@@ -7,18 +7,18 @@
 <!-- weekly:start -->
 ## 本周精选
 
-> 8 月 10 日 – 8 月 17 日 · 本周更新 242 篇 · [完整周报](https://github.com/dzpk-net/weekly)
+> 8 月 17 日 – 8 月 24 日 · 本周更新 301 篇 · [完整周报](https://github.com/dzpk-net/weekly)
 
-- **[APT Incheon 2026 收官：李昌桓和廖柏豪夺冠](https://dzpk.net/posts/31460)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
-- **[888poker 发布 WSOP 纪录片第二集](https://dzpk.net/posts/30920)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
-- **[WSOP 主赛电视收视率低迷](https://dzpk.net/posts/30936)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
-- **[Stephen Pang 和 Punnat Punsri 在 APT Incheon 赢得冠军](https://dzpk.net/posts/30929)** · [扑克赛事](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E8%B5%9B%E4%BA%8B)
-- **[APT仁川站主赛事意外剧情：冠军一度被宣布错误](https://dzpk.net/posts/30909)** · [扑克](https://dzpk.net/tag/%E6%89%91%E5%85%8B)
-- **[林仁杰：APT 的新星](https://dzpk.net/posts/29433)** · [玩家动态](https://dzpk.net/tag/%E7%8E%A9%E5%AE%B6%E5%8A%A8%E6%80%81)
-- **[扑克确实会让你感到痛苦，但不必让你感到痛不欲生扑克是一种游戏，会让你感到痛苦，但这并不意味着你必…](https://dzpk.net/posts/31054)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
-- **[亚巡赛 CEO 访谈：亚洲扑克的下一个热潮](https://dzpk.net/posts/31137)** · [亚洲扑克](https://dzpk.net/tag/%E4%BA%9A%E6%B4%B2%E6%89%91%E5%85%8B)
+- **[西班牙选手 Daniel Vicente 首夺 WSOP 冠军](https://dzpk.net/posts/35306)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
+- **[Check Check Check Check BOOM! 这个标题已经很能说明问题了，高风险的…](https://dzpk.net/posts/34082)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
+- **[杰米 ｜ 戈德慈善扑克赛筹集25万美元](https://dzpk.net/posts/36060)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
+- **[888poker 团队在 WSOP 大赛中的休息日在 2026 年 WSOP 大赛中，888po…](https://dzpk.net/posts/35635)** · [玩家动态](https://dzpk.net/tag/%E7%8E%A9%E5%AE%B6%E5%8A%A8%E6%80%81)
+- **[娱乐城如何看待高额玩家](https://dzpk.net/posts/35691)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
+- **[PS 冠军赛 IV 台北站：Cherkashin 赢得超高赌注赛冠军](https://dzpk.net/posts/35776)** · [扑克赛事](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E8%B5%9B%E4%BA%8B)
+- **[WPT Global 推出 1.10 美元卫星赛，赢取 WPT 首尔 Inspire 冠军赛门票…](https://dzpk.net/posts/34662)** · [在线扑克](https://dzpk.net/tag/%E5%9C%A8%E7%BA%BF%E6%89%91%E5%85%8B)
+- **[Triton 济州岛邀请赛即将开赛，菲尔 ｜ 艾维和布林 ｜ 肯尼领衔](https://dzpk.net/posts/35065)** · [济州岛](https://dzpk.net/tag/%E6%B5%8E%E5%B7%9E%E5%B2%9B)
 
-按主题看全部 11 个栏目：[2026-W33 周报](https://github.com/dzpk-net/weekly)
+按主题看全部 17 个栏目：[2026-W34 周报](https://github.com/dzpk-net/weekly)
 <!-- weekly:end -->
 
 ## 怎么读
