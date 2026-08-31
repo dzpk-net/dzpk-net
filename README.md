@@ -7,18 +7,18 @@
 <!-- weekly:start -->
 ## 本周精选
 
-> 8 月 17 日 – 8 月 24 日 · 本周更新 301 篇 · [完整周报](https://github.com/dzpk-net/weekly)
+> 8 月 24 日 – 8 月 31 日 · 本周更新 302 篇 · [完整周报](https://github.com/dzpk-net/weekly)
 
-- **[西班牙选手 Daniel Vicente 首夺 WSOP 冠军](https://dzpk.net/posts/35306)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
-- **[Check Check Check Check BOOM! 这个标题已经很能说明问题了，高风险的…](https://dzpk.net/posts/34082)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
-- **[杰米 ｜ 戈德慈善扑克赛筹集25万美元](https://dzpk.net/posts/36060)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
-- **[888poker 团队在 WSOP 大赛中的休息日在 2026 年 WSOP 大赛中，888po…](https://dzpk.net/posts/35635)** · [玩家动态](https://dzpk.net/tag/%E7%8E%A9%E5%AE%B6%E5%8A%A8%E6%80%81)
-- **[娱乐城如何看待高额玩家](https://dzpk.net/posts/35691)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
-- **[PS 冠军赛 IV 台北站：Cherkashin 赢得超高赌注赛冠军](https://dzpk.net/posts/35776)** · [扑克赛事](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E8%B5%9B%E4%BA%8B)
-- **[WPT Global 推出 1.10 美元卫星赛，赢取 WPT 首尔 Inspire 冠军赛门票…](https://dzpk.net/posts/34662)** · [在线扑克](https://dzpk.net/tag/%E5%9C%A8%E7%BA%BF%E6%89%91%E5%85%8B)
-- **[Triton 济州岛邀请赛即将开赛，菲尔 ｜ 艾维和布林 ｜ 肯尼领衔](https://dzpk.net/posts/35065)** · [济州岛](https://dzpk.net/tag/%E6%B5%8E%E5%B7%9E%E5%B2%9B)
+- **[DBPT S3 主赛 B 组 204 参赛 23 人晋级](https://dzpk.net/posts/41736)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
+- **[EPT 女子高额锦标赛的惊险一幕：Tiffany Michelle 牢牢掌握着筹码领先优势，却发…](https://dzpk.net/posts/42533)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
+- **[The Festival Weekend 2026 年最后一站：里加](https://dzpk.net/posts/39963)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
+- **[USOP下龙湾站开幕赛A/B组合共181人次参赛](https://dzpk.net/posts/41209)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
+- **[赢家倾斜：为什么顺风时可能会打得更差很多牌手都经历过这样的情况：在一段时间内连续赢得几场比赛，感…](https://dzpk.net/posts/42508)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
+- **[丹尼尔 ｜ 内格雷努在Hustler Casino Live首秀](https://dzpk.net/posts/41714)** · [玩家动态](https://dzpk.net/tag/%E7%8E%A9%E5%AE%B6%E5%8A%A8%E6%80%81)
+- **[突发📰 第 10 更 · 系列追踪Triton Fantasy全面上线济州站Triton Fan…](https://dzpk.net/posts/41747)** · [济州岛](https://dzpk.net/tag/%E6%B5%8E%E5%B7%9E%E5%B2%9B)
+- **[华冠杯周口S2第三日：72位强者晋级第二轮](https://dzpk.net/posts/41740)** · [华冠杯](https://dzpk.net/tag/%E5%8D%8E%E5%86%A0%E6%9D%AF)
 
-按主题看全部 17 个栏目：[2026-W34 周报](https://github.com/dzpk-net/weekly)
+按主题看全部 12 个栏目：[2026-W35 周报](https://github.com/dzpk-net/weekly)
 <!-- weekly:end -->
 
 ## 怎么读
