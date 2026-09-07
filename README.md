@@ -7,18 +7,18 @@
 <!-- weekly:start -->
 ## 本周精选
 
-> 8 月 24 日 – 8 月 31 日 · 本周更新 302 篇 · [完整周报](https://github.com/dzpk-net/weekly)
+> 8 月 31 日 – 9 月 7 日 · 本周更新 288 篇 · [完整周报](https://github.com/dzpk-net/weekly)
 
-- **[DBPT S3 主赛 B 组 204 参赛 23 人晋级](https://dzpk.net/posts/41736)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
-- **[EPT 女子高额锦标赛的惊险一幕：Tiffany Michelle 牢牢掌握着筹码领先优势，却发…](https://dzpk.net/posts/42533)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
-- **[The Festival Weekend 2026 年最后一站：里加](https://dzpk.net/posts/39963)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
-- **[USOP下龙湾站开幕赛A/B组合共181人次参赛](https://dzpk.net/posts/41209)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
-- **[赢家倾斜：为什么顺风时可能会打得更差很多牌手都经历过这样的情况：在一段时间内连续赢得几场比赛，感…](https://dzpk.net/posts/42508)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
-- **[丹尼尔 ｜ 内格雷努在Hustler Casino Live首秀](https://dzpk.net/posts/41714)** · [玩家动态](https://dzpk.net/tag/%E7%8E%A9%E5%AE%B6%E5%8A%A8%E6%80%81)
-- **[突发📰 第 10 更 · 系列追踪Triton Fantasy全面上线济州站Triton Fan…](https://dzpk.net/posts/41747)** · [济州岛](https://dzpk.net/tag/%E6%B5%8E%E5%B7%9E%E5%B2%9B)
-- **[华冠杯周口S2第三日：72位强者晋级第二轮](https://dzpk.net/posts/41740)** · [华冠杯](https://dzpk.net/tag/%E5%8D%8E%E5%86%A0%E6%9D%AF)
+- **[888poker WSOP 纪录片第 5 集：泡沫期](https://dzpk.net/posts/46177)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
+- **[济州 II 1.5 万美元 8 人桌比赛的决赛桌泡沫已经破裂！Alex Theologis 拿下…](https://dzpk.net/posts/45734)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
+- **[Unibet Open 马拉喀什站赛程公布](https://dzpk.net/posts/45854)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
+- **[WSOP Super Circuit Canada 主赛事 Day 3: Negreanu 和…](https://dzpk.net/posts/46953)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
+- **[直播主N3on首秀赢得名人扑克锦标赛](https://dzpk.net/posts/46193)** · [玩家动态](https://dzpk.net/tag/%E7%8E%A9%E5%AE%B6%E5%8A%A8%E6%80%81)
+- **[5 个不用打牌就能泄露的扑克 tells在扑克桌上，玩家可能会泄露一些信息，这些信息与他们的实际…](https://dzpk.net/posts/46732)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
+- **[MGM Poker Championship 2026 宣布举办](https://dzpk.net/posts/46427)** · [扑克赛事](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E8%B5%9B%E4%BA%8B)
+- **[克莱门斯 ｜ 罗伊特夺得Triton济州20K NLH冠军](https://dzpk.net/posts/46739)** · [济州岛](https://dzpk.net/tag/%E6%B5%8E%E5%B7%9E%E5%B2%9B)
 
-按主题看全部 12 个栏目：[2026-W35 周报](https://github.com/dzpk-net/weekly)
+按主题看全部 11 个栏目：[2026-W36 周报](https://github.com/dzpk-net/weekly)
 <!-- weekly:end -->
 
 ## 怎么读
