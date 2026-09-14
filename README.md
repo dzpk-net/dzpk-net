@@ -7,18 +7,18 @@
 <!-- weekly:start -->
 ## 本周精选
 
-> 8 月 31 日 – 9 月 7 日 · 本周更新 288 篇 · [完整周报](https://github.com/dzpk-net/weekly)
+> 9 月 7 日 – 9 月 14 日 · 本周更新 334 篇 · [完整周报](https://github.com/dzpk-net/weekly)
 
-- **[888poker WSOP 纪录片第 5 集：泡沫期](https://dzpk.net/posts/46177)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
-- **[济州 II 1.5 万美元 8 人桌比赛的决赛桌泡沫已经破裂！Alex Theologis 拿下…](https://dzpk.net/posts/45734)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
-- **[Unibet Open 马拉喀什站赛程公布](https://dzpk.net/posts/45854)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
-- **[WSOP Super Circuit Canada 主赛事 Day 3: Negreanu 和…](https://dzpk.net/posts/46953)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
-- **[直播主N3on首秀赢得名人扑克锦标赛](https://dzpk.net/posts/46193)** · [玩家动态](https://dzpk.net/tag/%E7%8E%A9%E5%AE%B6%E5%8A%A8%E6%80%81)
-- **[5 个不用打牌就能泄露的扑克 tells在扑克桌上，玩家可能会泄露一些信息，这些信息与他们的实际…](https://dzpk.net/posts/46732)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
-- **[MGM Poker Championship 2026 宣布举办](https://dzpk.net/posts/46427)** · [扑克赛事](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E8%B5%9B%E4%BA%8B)
-- **[克莱门斯 ｜ 罗伊特夺得Triton济州20K NLH冠军](https://dzpk.net/posts/46739)** · [济州岛](https://dzpk.net/tag/%E6%B5%8E%E5%B7%9E%E5%B2%9B)
+- **[Triton Poker Series 11 月重返北塞浦路斯](https://dzpk.net/posts/50748)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
+- **[看来 Phil Ivey 又有新动作了！他在 $50k 的 Triton Poker Serie…](https://dzpk.net/posts/49255)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
+- **[QPC Circuit 2026 赛程发布：10 月 12-21 日在河内举行Quads Pok…](https://dzpk.net/posts/50394)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
+- **[芬兰选手 Ossi "Monarch" Ketola 击败 Patrik Antonius 赢得…](https://dzpk.net/posts/49869)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
+- **[四个玩家一起看翻牌，结果一场 4-bet all-in 让最初的攻击者明显很不爽](https://dzpk.net/posts/50699)** · [WSOP](https://dzpk.net/tag/WSOP)
+- **[Triton 济州站：Alex Anton 夺冠](https://dzpk.net/posts/50040)** · [济州岛](https://dzpk.net/tag/%E6%B5%8E%E5%B7%9E%E5%B2%9B)
+- **[5 个可能毁掉你的扑克游戏的糟糕建议扑克职业选手和作者 Alex Fitzgerald 分享了哪…](https://dzpk.net/posts/49991)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
+- **[美国扑克职业选手亨特 ｜ 西奇在WPT澳大利亚结束10年的等待](https://dzpk.net/posts/49715)** · [玩家动态](https://dzpk.net/tag/%E7%8E%A9%E5%AE%B6%E5%8A%A8%E6%80%81)
 
-按主题看全部 11 个栏目：[2026-W36 周报](https://github.com/dzpk-net/weekly)
+按主题看全部 13 个栏目：[2026-W37 周报](https://github.com/dzpk-net/weekly)
 <!-- weekly:end -->
 
 ## 怎么读
