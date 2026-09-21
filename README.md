@@ -7,18 +7,18 @@
 <!-- weekly:start -->
 ## 本周精选
 
-> 9 月 7 日 – 9 月 14 日 · 本周更新 334 篇 · [完整周报](https://github.com/dzpk-net/weekly)
+> 9 月 14 日 – 9 月 21 日 · 本周更新 339 篇 · [完整周报](https://github.com/dzpk-net/weekly)
 
-- **[Triton Poker Series 11 月重返北塞浦路斯](https://dzpk.net/posts/50748)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
-- **[看来 Phil Ivey 又有新动作了！他在 $50k 的 Triton Poker Serie…](https://dzpk.net/posts/49255)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
-- **[QPC Circuit 2026 赛程发布：10 月 12-21 日在河内举行Quads Pok…](https://dzpk.net/posts/50394)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
-- **[芬兰选手 Ossi "Monarch" Ketola 击败 Patrik Antonius 赢得…](https://dzpk.net/posts/49869)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
-- **[四个玩家一起看翻牌，结果一场 4-bet all-in 让最初的攻击者明显很不爽](https://dzpk.net/posts/50699)** · [WSOP](https://dzpk.net/tag/WSOP)
-- **[Triton 济州站：Alex Anton 夺冠](https://dzpk.net/posts/50040)** · [济州岛](https://dzpk.net/tag/%E6%B5%8E%E5%B7%9E%E5%B2%9B)
-- **[5 个可能毁掉你的扑克游戏的糟糕建议扑克职业选手和作者 Alex Fitzgerald 分享了哪…](https://dzpk.net/posts/49991)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
-- **[美国扑克职业选手亨特 ｜ 西奇在WPT澳大利亚结束10年的等待](https://dzpk.net/posts/49715)** · [玩家动态](https://dzpk.net/tag/%E7%8E%A9%E5%AE%B6%E5%8A%A8%E6%80%81)
+- **[台湾好手陈志仁夺GOP台北Titan Stack Daily冠军](https://dzpk.net/posts/56054)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
+- **[Spraggy 在 EPT 巴塞罗那的这一手牌让整个桌子的人都惊呆了！尽管我们不知道具体的牌型和…](https://dzpk.net/posts/55897)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
+- **[好莱坞明星与扑克玩家共同为善事筹款](https://dzpk.net/posts/54608)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
+- **[5 个原因可能导致你的扑克连败扑克教练和作者 Alex Fitzgerald 分享了 5 个你可…](https://dzpk.net/posts/54588)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
+- **[济南文旅美食推荐由舍得酒业独家冠名的“酝智杯（Witage Poker Arena）”智力扑克运…](https://dzpk.net/posts/55978)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
+- **[GOP 台北：Edenata 首夺 Gauntlet，Yasukawa 奪 TWD 100 万冠…](https://dzpk.net/posts/55473)** · [扑克赛事](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E8%B5%9B%E4%BA%8B)
+- **[在 WSOP Circuit TCH Austin 赛事中，一名玩家在快要到达 bubble 的…](https://dzpk.net/posts/55504)** · [WSOP](https://dzpk.net/tag/WSOP)
+- **[上周精选 · 9/7-9/13本周共发布 145 篇 · 88 篇赛事战报 / 37 篇业内动态…](https://dzpk.net/posts/55332)** · [济州岛](https://dzpk.net/tag/%E6%B5%8E%E5%B7%9E%E5%B2%9B)
 
-按主题看全部 13 个栏目：[2026-W37 周报](https://github.com/dzpk-net/weekly)
+按主题看全部 11 个栏目：[2026-W38 周报](https://github.com/dzpk-net/weekly)
 <!-- weekly:end -->
 
 ## 怎么读
