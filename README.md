@@ -7,18 +7,18 @@
 <!-- weekly:start -->
 ## 本周精选
 
-> 9 月 14 日 – 9 月 21 日 · 本周更新 339 篇 · [完整周报](https://github.com/dzpk-net/weekly)
+> 9 月 21 日 – 9 月 28 日 · 本周更新 274 篇 · [完整周报](https://github.com/dzpk-net/weekly)
 
-- **[台湾好手陈志仁夺GOP台北Titan Stack Daily冠军](https://dzpk.net/posts/56054)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
-- **[Spraggy 在 EPT 巴塞罗那的这一手牌让整个桌子的人都惊呆了！尽管我们不知道具体的牌型和…](https://dzpk.net/posts/55897)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
-- **[好莱坞明星与扑克玩家共同为善事筹款](https://dzpk.net/posts/54608)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
-- **[5 个原因可能导致你的扑克连败扑克教练和作者 Alex Fitzgerald 分享了 5 个你可…](https://dzpk.net/posts/54588)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
-- **[济南文旅美食推荐由舍得酒业独家冠名的“酝智杯（Witage Poker Arena）”智力扑克运…](https://dzpk.net/posts/55978)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
-- **[GOP 台北：Edenata 首夺 Gauntlet，Yasukawa 奪 TWD 100 万冠…](https://dzpk.net/posts/55473)** · [扑克赛事](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E8%B5%9B%E4%BA%8B)
-- **[在 WSOP Circuit TCH Austin 赛事中，一名玩家在快要到达 bubble 的…](https://dzpk.net/posts/55504)** · [WSOP](https://dzpk.net/tag/WSOP)
-- **[上周精选 · 9/7-9/13本周共发布 145 篇 · 88 篇赛事战报 / 37 篇业内动态…](https://dzpk.net/posts/55332)** · [济州岛](https://dzpk.net/tag/%E6%B5%8E%E5%B7%9E%E5%B2%9B)
+- **[GOP 台北站主赛决赛桌出炉，Tsu Yun Yang 领跑](https://dzpk.net/posts/61165)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
+- **[在 @TheAsianPokerTour Jeju Series 的一场德州扑克比赛中，Ren…](https://dzpk.net/posts/62021)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
+- **[WPT 澳洲站：Michael Zhang 领先 46 人进入总冠军赛第三天](https://dzpk.net/posts/61912)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
+- **[WPT Global推出国庆黄金周7+7庆典系列赛](https://dzpk.net/posts/59312)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
+- **[WPT 澳洲站：Pranav Bhatt 领跑 Day 1b](https://dzpk.net/posts/60024)** · [扑克赛事](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E8%B5%9B%E4%BA%8B)
+- **[ClubWPT Gold可能重返内华达州](https://dzpk.net/posts/61848)** · [在线扑克](https://dzpk.net/tag/%E5%9C%A8%E7%BA%BF%E6%89%91%E5%85%8B)
+- **[进入状态：如何在牌桌上找到最佳状态](https://dzpk.net/posts/61884)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
+- **[KPC Poker 济州站 10 月系列赛即将开幕](https://dzpk.net/posts/60890)** · [济州岛](https://dzpk.net/tag/%E6%B5%8E%E5%B7%9E%E5%B2%9B)
 
-按主题看全部 11 个栏目：[2026-W38 周报](https://github.com/dzpk-net/weekly)
+按主题看全部 11 个栏目：[2026-W39 周报](https://github.com/dzpk-net/weekly)
 <!-- weekly:end -->
 
 ## 怎么读
