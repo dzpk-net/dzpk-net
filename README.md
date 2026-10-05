@@ -7,18 +7,18 @@
 <!-- weekly:start -->
 ## 本周精选
 
-> 9 月 21 日 – 9 月 28 日 · 本周更新 274 篇 · [完整周报](https://github.com/dzpk-net/weekly)
+> 9 月 28 日 – 10 月 5 日 · 本周更新 261 篇 · [完整周报](https://github.com/dzpk-net/weekly)
 
-- **[GOP 台北站主赛决赛桌出炉，Tsu Yun Yang 领跑](https://dzpk.net/posts/61165)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
-- **[在 @TheAsianPokerTour Jeju Series 的一场德州扑克比赛中，Ren…](https://dzpk.net/posts/62021)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
-- **[WPT 澳洲站：Michael Zhang 领先 46 人进入总冠军赛第三天](https://dzpk.net/posts/61912)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
-- **[WPT Global推出国庆黄金周7+7庆典系列赛](https://dzpk.net/posts/59312)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
-- **[WPT 澳洲站：Pranav Bhatt 领跑 Day 1b](https://dzpk.net/posts/60024)** · [扑克赛事](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E8%B5%9B%E4%BA%8B)
-- **[ClubWPT Gold可能重返内华达州](https://dzpk.net/posts/61848)** · [在线扑克](https://dzpk.net/tag/%E5%9C%A8%E7%BA%BF%E6%89%91%E5%85%8B)
-- **[进入状态：如何在牌桌上找到最佳状态](https://dzpk.net/posts/61884)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
-- **[KPC Poker 济州站 10 月系列赛即将开幕](https://dzpk.net/posts/60890)** · [济州岛](https://dzpk.net/tag/%E6%B5%8E%E5%B7%9E%E5%B2%9B)
+- **[国人勇夺WSOP闭幕赛金手链冠军！](https://dzpk.net/posts/65309)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
+- **[Doug Polk 回顾几年前在 Hustler Casino Live 上的一手有趣的牌局，这…](https://dzpk.net/posts/65457)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
+- **[QPC Circuit 2026：十月必赴的亚洲扑克盛事十月是亚洲扑克圈最为繁忙的月份之一，QP…](https://dzpk.net/posts/66235)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
+- **[APT Jeju 2026 主赛决赛桌出炉，孙剑锋领跑](https://dzpk.net/posts/65813)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
+- **[在线扑克超级用户丑闻：两家网站曾被警告](https://dzpk.net/posts/65845)** · [在线扑克](https://dzpk.net/tag/%E5%9C%A8%E7%BA%BF%E6%89%91%E5%85%8B)
+- **[孙剑锋在APT Jeju主赛决赛中大获全胜](https://dzpk.net/posts/66200)** · [扑克赛事](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E8%B5%9B%E4%BA%8B)
+- **[10 万美元决赛桌上的一次大胆的虚张声势](https://dzpk.net/posts/67204)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
+- **[斯科特 ｜ 马格雷森赢得APT济州2026高赌赛冠军](https://dzpk.net/posts/67190)** · [济州岛](https://dzpk.net/tag/%E6%B5%8E%E5%B7%9E%E5%B2%9B)
 
-按主题看全部 11 个栏目：[2026-W39 周报](https://github.com/dzpk-net/weekly)
+按主题看全部 13 个栏目：[2026-W40 周报](https://github.com/dzpk-net/weekly)
 <!-- weekly:end -->
 
 ## 怎么读
