@@ -7,18 +7,18 @@
 <!-- weekly:start -->
 ## 本周精选
 
-> 10 月 19 日 – 10 月 26 日 · 本周更新 277 篇 · [完整周报](https://github.com/dzpk-net/weekly)
+> 10 月 26 日 – 11 月 2 日 · 本周更新 243 篇 · [完整周报](https://github.com/dzpk-net/weekly)
 
-- **[马来西亚队夺得WPF亚洲国家杯2026冠军](https://dzpk.net/posts/76448)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
-- **[你是否相信一些简单的动作就能改变牌局的走向？比如，当你all-in且处于劣势时，简单地站起来，好…](https://dzpk.net/posts/76657)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
-- **[PokerStars 开赛季：2027 年 1 月在意大利坎皮奥内举办2027 年的第一场 Po…](https://dzpk.net/posts/76469)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
-- **[Lester Edoc领先TMT Championship 2026主赛决赛桌](https://dzpk.net/posts/76656)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
-- **[日常幻想体育的技巧如何应用于扑克如果你有一个 PokerStars 在 FanDuel 的账户，…](https://dzpk.net/posts/76643)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
-- **[Jared Bleznick 为其 WSOP 解说风格辩护近期，Jared Bleznick 在…](https://dzpk.net/posts/76423)** · [玩家动态](https://dzpk.net/tag/%E7%8E%A9%E5%AE%B6%E5%8A%A8%E6%80%81)
-- **[华冠杯第三届周口城市联谊赛即将开赛11月06—10日，河南·周口，华冠杯第三届周口城市联谊赛，将…](https://dzpk.net/posts/76605)** · [华冠杯](https://dzpk.net/tag/%E5%8D%8E%E5%86%A0%E6%9D%AF)
-- **[在WSOPC Turning Stone站的主赛事中，有个玩家渴望对手跟注，但对手却急着弃牌](https://dzpk.net/posts/76507)** · [WSOP](https://dzpk.net/tag/WSOP)
+- **[法比安 ｜ 冈兹领跑KPC主赛决赛桌](https://dzpk.net/posts/77183)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
+- **[德国选手 Fabio Franz 在 King's Resort Rozvadov 的巴尔干扑克…](https://dzpk.net/posts/77179)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
+- **[RSOP系列赛事全新奖杯重磅升级](https://dzpk.net/posts/77229)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
+- **[Triton Invitational X 重返欧洲](https://dzpk.net/posts/77185)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
+- **[Junglemen 即将出版回忆录《Pokerworld》高赌注扑克玩家 Dan Cates ，…](https://dzpk.net/posts/77056)** · [玩家动态](https://dzpk.net/tag/%E7%8E%A9%E5%AE%B6%E5%8A%A8%E6%80%81)
+- **[Vinny Chui 在 Lake Tahoe 的 WSOP Circuit 赛事中玩得很开心，…](https://dzpk.net/posts/77281)** · [WSOP](https://dzpk.net/tag/WSOP)
+- **[Triton幕后揭秘：最大运营开支竟然是椅子在全球高额扑克赛事领域，Triton Poker一直…](https://dzpk.net/posts/77109)** · [扑克赛事](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E8%B5%9B%E4%BA%8B)
+- **[APT Online 2026 冠军赛最后四场](https://dzpk.net/posts/77133)** · [在线扑克](https://dzpk.net/tag/%E5%9C%A8%E7%BA%BF%E6%89%91%E5%85%8B)
 
-按主题看全部 14 个栏目：[2026-W43 周报](https://github.com/dzpk-net/weekly)
+按主题看全部 12 个栏目：[2026-W44 周报](https://github.com/dzpk-net/weekly)
 <!-- weekly:end -->
 
 ## 怎么读
