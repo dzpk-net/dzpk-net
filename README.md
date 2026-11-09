@@ -7,18 +7,18 @@
 <!-- weekly:start -->
 ## 本周精选
 
-> 10 月 26 日 – 11 月 2 日 · 本周更新 243 篇 · [完整周报](https://github.com/dzpk-net/weekly)
+> 11 月 2 日 – 11 月 9 日 · 本周更新 235 篇 · [完整周报](https://github.com/dzpk-net/weekly)
 
-- **[法比安 ｜ 冈兹领跑KPC主赛决赛桌](https://dzpk.net/posts/77183)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
-- **[德国选手 Fabio Franz 在 King's Resort Rozvadov 的巴尔干扑克…](https://dzpk.net/posts/77179)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
-- **[RSOP系列赛事全新奖杯重磅升级](https://dzpk.net/posts/77229)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
-- **[Triton Invitational X 重返欧洲](https://dzpk.net/posts/77185)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
-- **[Junglemen 即将出版回忆录《Pokerworld》高赌注扑克玩家 Dan Cates ，…](https://dzpk.net/posts/77056)** · [玩家动态](https://dzpk.net/tag/%E7%8E%A9%E5%AE%B6%E5%8A%A8%E6%80%81)
-- **[Vinny Chui 在 Lake Tahoe 的 WSOP Circuit 赛事中玩得很开心，…](https://dzpk.net/posts/77281)** · [WSOP](https://dzpk.net/tag/WSOP)
-- **[Triton幕后揭秘：最大运营开支竟然是椅子在全球高额扑克赛事领域，Triton Poker一直…](https://dzpk.net/posts/77109)** · [扑克赛事](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E8%B5%9B%E4%BA%8B)
-- **[APT Online 2026 冠军赛最后四场](https://dzpk.net/posts/77133)** · [在线扑克](https://dzpk.net/tag/%E5%9C%A8%E7%BA%BF%E6%89%91%E5%85%8B)
+- **[Yan Jingyao 再夺 Triton ONE 赛冠军](https://dzpk.net/posts/77822)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
+- **[Will Failla 在 BFPO $600 Kickoff 的 Day 1e 上尝试了一次大…](https://dzpk.net/posts/77688)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
+- **[WSOP Paradise 即将开赛，圣雷莫站是最后的机会世界扑克大赛（WSOP）巡回赛圣雷莫站…](https://dzpk.net/posts/77750)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
+- **[特雷扎 ｜ 维尔纳洛娃成为马耳他战役主赛首位女性冠军](https://dzpk.net/posts/77609)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
+- **[拿到 AA 的时候，你会怎么打？Bin Weng 在 BFPO $600 Kickoff 的 D…](https://dzpk.net/posts/77764)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
+- **[红龙杯PLUS主赛A/B组合共209人次参赛78人晋级](https://dzpk.net/posts/77778)** · [济州岛](https://dzpk.net/tag/%E6%B5%8E%E5%B7%9E%E5%B2%9B)
+- **[马塔斯 ｜ 辛博拉斯领跑红龙杯Plus 1C](https://dzpk.net/posts/77815)** · [红龙杯](https://dzpk.net/tag/%E7%BA%A2%E9%BE%99%E6%9D%AF)
+- **[Jo Kim 在 WSOP Circuit Lake Tahoe 赛事中，选择 4 倍下注 al…](https://dzpk.net/posts/77683)** · [WSOP](https://dzpk.net/tag/WSOP)
 
-按主题看全部 12 个栏目：[2026-W44 周报](https://github.com/dzpk-net/weekly)
+按主题看全部 12 个栏目：[2026-W45 周报](https://github.com/dzpk-net/weekly)
 <!-- weekly:end -->
 
 ## 怎么读
