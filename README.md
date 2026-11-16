@@ -7,18 +7,18 @@
 <!-- weekly:start -->
 ## 本周精选
 
-> 11 月 2 日 – 11 月 9 日 · 本周更新 235 篇 · [完整周报](https://github.com/dzpk-net/weekly)
+> 11 月 9 日 – 11 月 16 日 · 本周更新 237 篇 · [完整周报](https://github.com/dzpk-net/weekly)
 
-- **[Yan Jingyao 再夺 Triton ONE 赛冠军](https://dzpk.net/posts/77822)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
-- **[Will Failla 在 BFPO $600 Kickoff 的 Day 1e 上尝试了一次大…](https://dzpk.net/posts/77688)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
-- **[WSOP Paradise 即将开赛，圣雷莫站是最后的机会世界扑克大赛（WSOP）巡回赛圣雷莫站…](https://dzpk.net/posts/77750)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
-- **[特雷扎 ｜ 维尔纳洛娃成为马耳他战役主赛首位女性冠军](https://dzpk.net/posts/77609)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
-- **[拿到 AA 的时候，你会怎么打？Bin Weng 在 BFPO $600 Kickoff 的 D…](https://dzpk.net/posts/77764)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
-- **[红龙杯PLUS主赛A/B组合共209人次参赛78人晋级](https://dzpk.net/posts/77778)** · [济州岛](https://dzpk.net/tag/%E6%B5%8E%E5%B7%9E%E5%B2%9B)
-- **[马塔斯 ｜ 辛博拉斯领跑红龙杯Plus 1C](https://dzpk.net/posts/77815)** · [红龙杯](https://dzpk.net/tag/%E7%BA%A2%E9%BE%99%E6%9D%AF)
-- **[Jo Kim 在 WSOP Circuit Lake Tahoe 赛事中，选择 4 倍下注 al…](https://dzpk.net/posts/77683)** · [WSOP](https://dzpk.net/tag/WSOP)
+- **[Sridhar Sangannagari夺得BetMGM Hybrid冠军](https://dzpk.net/posts/78345)** · [赛事战报](https://dzpk.net/tag/%E8%B5%9B%E4%BA%8B%E6%88%98%E6%8A%A5)
+- **[Triton One 主赛事决赛桌上，Aleksei Istomin 和 Thore Boede…](https://dzpk.net/posts/78434)** · [德州扑克](https://dzpk.net/tag/%E5%BE%B7%E5%B7%9E%E6%89%91%E5%85%8B)
+- **[淡水鱼 × CSOP 携手共创智力运动新征程](https://dzpk.net/posts/78370)** · [业内动态](https://dzpk.net/tag/%E4%B8%9A%E5%86%85%E5%8A%A8%E6%80%81)
+- **[荷兰选手 Raoul Kanme 击败 Mohamed El-Wely 获得 Triton ON…](https://dzpk.net/posts/78444)** · [扑克新闻](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E6%96%B0%E9%97%BB)
+- **[Umut Ozturk 赢得第三个 MSPT 主赛冠军](https://dzpk.net/posts/78244)** · [扑克赛事](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E8%B5%9B%E4%BA%8B)
+- **[朱双红夺冠 Red Dragon Plus 冠军赛](https://dzpk.net/posts/78088)** · [红龙杯](https://dzpk.net/tag/%E7%BA%A2%E9%BE%99%E6%9D%AF)
+- **[上周精选 · 11/2-11/8本周共发布 104 篇 · 53 篇赛事战报 / 38 篇业内动…](https://dzpk.net/posts/78322)** · [扑克策略](https://dzpk.net/tag/%E6%89%91%E5%85%8B%E7%AD%96%E7%95%A5)
+- **[第五届华冠杯益阳站即将开赛](https://dzpk.net/posts/78363)** · [华冠杯](https://dzpk.net/tag/%E5%8D%8E%E5%86%A0%E6%9D%AF)
 
-按主题看全部 12 个栏目：[2026-W45 周报](https://github.com/dzpk-net/weekly)
+按主题看全部 10 个栏目：[2026-W46 周报](https://github.com/dzpk-net/weekly)
 <!-- weekly:end -->
 
 ## 怎么读
